@@ -7,4 +7,4 @@ Through modifying Beta and Gamma carefully, we can get different styles of snowf
 
 ![alt tag](https://github.com/rozoalex/Snowflake_simulation/blob/master/snow.gif)
 
-This will be implemented using Python for a bigger scale simulation[.](http://www.redblobgames.com/grids/hexagons/implementation.html).
+This will be implemented using Python for a bigger scale simulation[~](http://www.redblobgames.com/grids/hexagons/implementation.html)
